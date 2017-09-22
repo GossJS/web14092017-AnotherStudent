@@ -8,3 +8,6 @@ https://kodaktor.ru/g/web14092017
 
 # Ответ
 http://jsbin.com/zotakagute/edit?html,js,console
+
+# Вторая версия
+https://www.webpackbin.com/bins/-KueHZLwmk1wdeYUv-rO
