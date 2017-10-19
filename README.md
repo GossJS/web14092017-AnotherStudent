@@ -11,3 +11,6 @@ http://jsbin.com/zotakagute/edit?html,js,console
 
 # Вторая версия
 https://www.webpackbin.com/bins/-KueHZLwmk1wdeYUv-rO
+
+# js callback
+https://www.webpackbin.com/bins/-KwodVbQEgsAqhUiUk6N
